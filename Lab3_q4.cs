@@ -5,7 +5,7 @@ namespace Labwork
 {
     internal class Lab3_q4
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
             // Connection string to your existing 'employee' database
             string connStr = "server=localhost;user=root;password=;database=employee;";
@@ -39,6 +39,6 @@ namespace Labwork
 
                 reader.Close();
             }
-        }
+        }*/
     }
 }
